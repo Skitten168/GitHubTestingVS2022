@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funkyMonkey", "funkyMonkey\funkyMonkey.csproj", "{092FAEC2-2D28-4370-AED9-6D2CF24352CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092FAEC2-2D28-4370-AED9-6D2CF24352CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092FAEC2-2D28-4370-AED9-6D2CF24352CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092FAEC2-2D28-4370-AED9-6D2CF24352CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092FAEC2-2D28-4370-AED9-6D2CF24352CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B92F5A-AB81-41A7-9613-E08723A13B36}
+	EndGlobalSection
+EndGlobal

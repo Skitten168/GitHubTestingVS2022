@@ -1,0 +1,13 @@
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/bin/Debug/netcoreapp3.1/funkyMonkey.deps.json
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/bin/Debug/netcoreapp3.1/funkyMonkey.runtimeconfig.json
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/bin/Debug/netcoreapp3.1/funkyMonkey.runtimeconfig.dev.json
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/bin/Debug/netcoreapp3.1/funkyMonkey.dll
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/bin/Debug/netcoreapp3.1/funkyMonkey.pdb
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.csproj.AssemblyReference.cache
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.AssemblyInfoInputs.cache
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.AssemblyInfo.cs
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.csproj.CoreCompileInputs.cache
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.dll
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.pdb
+/Users/samkittendorf/Projects/funkyMonkey/funkyMonkey/obj/Debug/netcoreapp3.1/funkyMonkey.genruntimeconfig.cache
