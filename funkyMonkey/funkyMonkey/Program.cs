@@ -5,7 +5,7 @@ class SalesTaxDemo
 {
     static void Main()
     {
-        Sale[] eachSale = new Sale[10];
+        Sale[] eachSale = new Sale[11];
     }
 }
 class Sale
